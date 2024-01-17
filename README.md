@@ -25,7 +25,3 @@
     ```
 
 5. The script will analyze the log file and print out the extracted port numbers.
-
-## File Structure
-- `main.py`: Contains the Python script for log analysis.
-- `datain.txt`: Input log file containing the logs to be analyzed.
